@@ -1,5 +1,6 @@
 body{
     margin:0;
+    background-color:beige;
 }
 a{
     color:black;
@@ -8,10 +9,9 @@ a{
 h1{
     font-size:45px;
     text-align: center;
+    padding:10px;
     border-bottom:2px black solid;
     margin:0px;
-    padding:20px;
-
 }
 #grid ol{
     border-right:2px black solid;
